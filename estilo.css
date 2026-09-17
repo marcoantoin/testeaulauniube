@@ -1,11 +1,11 @@
 body {
-  background-color: #121212;
+  background-color: #121212; 
   background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('imagens/logo.jpeg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;       
   background-attachment: fixed;  
-  color: #ffffff;
+  color: #ffffff; 
 }
 
 a {
